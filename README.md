@@ -1,5 +1,0 @@
-willmstevenson
-==============
-
-personal photography site
-
